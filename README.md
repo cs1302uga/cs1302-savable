@@ -1,6 +1,6 @@
 # hw03 Interfaces (ADTs)
 
-![Approved for: Fall 2024](https://img.shields.io/badge/Approved%20for-Fall%202024-green)
+![Approved for: Spring 2025](https://img.shields.io/badge/Approved%20for-Spring%202025-blue)
 
 When a seasoned programmer or potential employer asks you if you know
 Object-Oriented Programming (OOP), they are not asking, "do you know
